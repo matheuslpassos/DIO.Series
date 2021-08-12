@@ -1,0 +1,16 @@
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\bin\Debug\net5.0\DIO.Series.exe
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\bin\Debug\net5.0\DIO.Series.deps.json
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\bin\Debug\net5.0\DIO.Series.dll
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\bin\Debug\net5.0\ref\DIO.Series.dll
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\bin\Debug\net5.0\DIO.Series.pdb
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\obj\Debug\net5.0\DIO.Series.dll
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\obj\Debug\net5.0\ref\DIO.Series.dll
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\obj\Debug\net5.0\DIO.Series.pdb
+E:\Area de Trabalho\ESTUDOS MATHEUS\DIO - .NET FOUNDAMENTALS\dio.series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
